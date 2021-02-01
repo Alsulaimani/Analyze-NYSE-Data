@@ -7,12 +7,12 @@ In this project we were asked to accomplish the following
 
 2. In ypour Excel sheet you must have the following:
 
-* Data file
+  * Data file
 
-* Summary statistics
+  * Summary statistics
 
-* P&L Statement Dashboard which must have a drop-down list to pull historical fundamentals data 
+  * P&L Statement Dashboard which must have a drop-down list to pull historical fundamentals data 
 
-* Forecast scenarios
+  * Forecast scenarios
 
-Kindly note that I had a problem with my excel while creating the drop-down list, so the drop-down list in the attached file is not acceptable by Udacity.
+Kindly note that I had a problem with my excel while creating the drop-down list, so the drop-down list in the attached file is **NOT** acceptable by Udacity.
