@@ -1,5 +1,5 @@
 # Analyze-NYSE-Data
-Project #2 in Business Analytics by Udacity
+## Project #2 in Business Analytics by Udacity
 
 In this project we were asked to accomplish the following 
 
@@ -7,9 +7,9 @@ In this project we were asked to accomplish the following
 
 2. In ypour Excel sheet you must have the following:
 
-  - Data file
+    -- Data file
 
-  - Summary statistics
+    - Summary statistics
 
   - P&L Statement Dashboard which must have a drop-down list to pull historical fundamentals data 
 
